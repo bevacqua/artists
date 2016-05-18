@@ -1,0 +1,25 @@
+{
+  "name": "artists",
+  "version": "1.0.0",
+  "description": "Big list of artists pulled from Wikipedia.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bevacqua/artists.git"
+  },
+  "author": "Nicolas Bevacqua <nicolasbevacqua@gmail.com> (https://ponyfoo.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bevacqua/artists/issues"
+  },
+  "homepage": "https://github.com/bevacqua/artists#readme",
+  "devDependencies": {
+    "cheerio": "0.20.0",
+    "contra": "1.9.1",
+    "lodash": "4.12.0",
+    "request": "2.72.0"
+  },
+  "dependencies": {
+    "lodash": "4.12.0"
+  }
+}
